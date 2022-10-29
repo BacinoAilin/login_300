@@ -23,7 +23,7 @@ La clave sigue una expresión regular para validar que formato sea el correcto.
 Diagrama de la solución
 
 Ejecución con maven y Java
-clonar el proyecto $ https://github.com/BacinoAilin/login_300
+clonar el proyecto $ https://github.com/BacinoAilin/login_nisum
 Ir al directorio del proyecto $ cd nisum/
 Generar jar del proyecto
 $ mvn clean install
